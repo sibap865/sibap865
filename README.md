@@ -7,13 +7,15 @@
 
 - 👯 I’m looking to collaborate on **Data Science projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sibap865?tab=repositories](https://github.com/sibap865?tab=repositories)
+- 👨‍💻 All of my projects are available at [Repos](https://github.com/sibap865?tab=repositories)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/sibaprasad-naik-behera-98043b1ba/](https://www.linkedin.com/in/sibaprasad-naik-behera-98043b1ba/)
 
 - 💬 Ask me about **Machine Learning,End-to-end project**
 
 - 📫 How to reach me **sibap865@gmail.com**
+- 
+- 📫 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1e52kcjWkwxgsOmiapWiW-atzCFh_HPv7/view?usp=drive_link/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
