@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [Repos](https://github.com/sibap865?tab=repositories)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/sibaprasad-naik-behera-98043b1ba/](https://www.linkedin.com/in/sibaprasad-naik-behera-98043b1ba/)
+- 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/sibaprasad-naik-behera-98043b1ba/)
 
 - 💬 Ask me about **Machine Learning,End-to-end project**
 
