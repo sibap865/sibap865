@@ -14,7 +14,7 @@
 - 💬 Ask me about **Machine Learning,End-to-end project**
 
 - 📫 How to reach me **sibap865@gmail.com**
-- 📫 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/19xr1xB9MSZ86Oi0M0-iX6PJm6-_H_l3Y/view?usp=sharing)
+- 📫 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/11wm0s5RC9YqgEdSQHvRr8GxkvPt_3yL5/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
