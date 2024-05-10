@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sibaprasad Naik Behera</h1>
 <h3 align="center">I’m interested in Data Science,Robotics & IOT projects</h3>
 
-- 🔭 I’m currently working on [LangChainQ-A application](https://github.com/sibap865/LangchainQ-Aproject)
+- 🔭 I’m currently working on [LangChain applications](https://github.com/sibap865/QuestifyYT)
 
 - 🌱 I’m currently learning **Deep Learning ,Gen AI ,Embedded AI**
 
